@@ -1,4 +1,4 @@
-a = "best"
+a = "bad"
 
 print ("Hello IIMT " + a)
 
